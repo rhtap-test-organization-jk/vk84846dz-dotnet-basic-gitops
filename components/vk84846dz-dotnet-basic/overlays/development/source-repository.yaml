@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vk84846dz-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/vk84846dz-dotnet-basic
